@@ -1,0 +1,127 @@
+0
+00:00:00,080 --> 00:00:00,180
+<font color="#00ff00">The</font> prima donna known for her colorful costumes with feathers.
+
+1
+00:00:00,180 --> 00:00:00,460
+The <font color="#00ff00">prima</font> donna known for her colorful costumes with feathers.
+
+2
+00:00:00,460 --> 00:00:00,800
+The prima <font color="#00ff00">donna</font> known for her colorful costumes with feathers.
+
+3
+00:00:00,800 --> 00:00:01,000
+The prima donna <font color="#00ff00">known</font> for her colorful costumes with feathers.
+
+4
+00:00:01,000 --> 00:00:01,200
+The prima donna known <font color="#00ff00">for</font> her colorful costumes with feathers.
+
+5
+00:00:01,200 --> 00:00:01,320
+The prima donna known for <font color="#00ff00">her</font> colorful costumes with feathers.
+
+6
+00:00:01,320 --> 00:00:01,680
+The prima donna known for her <font color="#00ff00">colorful</font> costumes with feathers.
+
+7
+00:00:01,680 --> 00:00:02,140
+The prima donna known for her colorful <font color="#00ff00">costumes</font> with feathers.
+
+8
+00:00:02,140 --> 00:00:02,460
+The prima donna known for her colorful costumes <font color="#00ff00">with</font> feathers.
+
+9
+00:00:02,460 --> 00:00:02,700
+The prima donna known for her colorful costumes with <font color="#00ff00">feathers.</font>
+
+10
+00:00:03,640 --> 00:00:03,740
+<font color="#00ff00">The</font> wealthy patron always spotted with his silk glove.
+
+11
+00:00:03,740 --> 00:00:04,000
+The <font color="#00ff00">wealthy</font> patron always spotted with his silk glove.
+
+12
+00:00:04,000 --> 00:00:04,380
+The wealthy <font color="#00ff00">patron</font> always spotted with his silk glove.
+
+13
+00:00:04,380 --> 00:00:04,640
+The wealthy patron <font color="#00ff00">always</font> spotted with his silk glove.
+
+14
+00:00:04,640 --> 00:00:05,000
+The wealthy patron always <font color="#00ff00">spotted</font> with his silk glove.
+
+15
+00:00:05,000 --> 00:00:05,200
+The wealthy patron always spotted <font color="#00ff00">with</font> his silk glove.
+
+16
+00:00:05,200 --> 00:00:05,340
+The wealthy patron always spotted with <font color="#00ff00">his</font> silk glove.
+
+17
+00:00:05,340 --> 00:00:05,560
+The wealthy patron always spotted with his <font color="#00ff00">silk</font> glove.
+
+18
+00:00:05,560 --> 00:00:05,880
+The wealthy patron always spotted with his silk <font color="#00ff00">glove.</font>
+
+19
+00:00:06,740 --> 00:00:06,840
+<font color="#00ff00">The</font> conductor who adored wine.
+
+20
+00:00:06,840 --> 00:00:07,240
+The <font color="#00ff00">conductor</font> who adored wine.
+
+21
+00:00:07,240 --> 00:00:07,480
+The conductor <font color="#00ff00">who</font> adored wine.
+
+22
+00:00:07,480 --> 00:00:07,740
+The conductor who <font color="#00ff00">adored</font> wine.
+
+23
+00:00:07,740 --> 00:00:08,120
+The conductor who adored <font color="#00ff00">wine.</font>
+
+24
+00:00:09,000 --> 00:00:09,100
+<font color="#00ff00">And</font> the obscure spectator with a balcony ticket.
+
+25
+00:00:09,100 --> 00:00:09,180
+And <font color="#00ff00">the</font> obscure spectator with a balcony ticket.
+
+26
+00:00:09,180 --> 00:00:09,500
+And the <font color="#00ff00">obscure</font> spectator with a balcony ticket.
+
+27
+00:00:09,500 --> 00:00:10,140
+And the obscure <font color="#00ff00">spectator</font> with a balcony ticket.
+
+28
+00:00:10,140 --> 00:00:10,320
+And the obscure spectator <font color="#00ff00">with</font> a balcony ticket.
+
+29
+00:00:10,320 --> 00:00:10,420
+And the obscure spectator with <font color="#00ff00">a</font> balcony ticket.
+
+30
+00:00:10,420 --> 00:00:10,700
+And the obscure spectator with a <font color="#00ff00">balcony</font> ticket.
+
+31
+00:00:10,700 --> 00:00:11,040
+And the obscure spectator with a balcony <font color="#00ff00">ticket.</font>

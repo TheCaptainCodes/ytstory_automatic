@@ -1,0 +1,43 @@
+0
+00:00:00,100 --> 00:00:00,260
+<font color="#00ff00">Read</font> looked into the camera.
+
+1
+00:00:00,260 --> 00:00:00,480
+Read <font color="#00ff00">looked</font> into the camera.
+
+2
+00:00:00,480 --> 00:00:00,500
+Read looked into the camera.
+
+3
+00:00:00,500 --> 00:00:00,660
+Read looked <font color="#00ff00">into</font> the camera.
+
+4
+00:00:00,660 --> 00:00:00,820
+Read looked into <font color="#00ff00">the</font> camera.
+
+5
+00:00:00,820 --> 00:00:01,160
+Read looked into the <font color="#00ff00">camera.</font>
+
+6
+00:00:02,000 --> 00:00:02,100
+<font color="#00ff00">The</font> audience at home included.
+
+7
+00:00:02,100 --> 00:00:02,440
+The <font color="#00ff00">audience</font> at home included.
+
+8
+00:00:02,440 --> 00:00:02,640
+The audience <font color="#00ff00">at</font> home included.
+
+9
+00:00:02,640 --> 00:00:02,780
+The audience at <font color="#00ff00">home</font> included.
+
+10
+00:00:02,780 --> 00:00:03,140
+The audience at home <font color="#00ff00">included.</font>

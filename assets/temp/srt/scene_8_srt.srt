@@ -1,0 +1,59 @@
+0
+00:00:00,100 --> 00:00:00,200
+<font color="#00ff00">He</font> laid out the evidence in front of them.
+
+1
+00:00:00,200 --> 00:00:00,380
+He <font color="#00ff00">laid</font> out the evidence in front of them.
+
+2
+00:00:00,380 --> 00:00:00,540
+He laid <font color="#00ff00">out</font> the evidence in front of them.
+
+3
+00:00:00,540 --> 00:00:00,720
+He laid out <font color="#00ff00">the</font> evidence in front of them.
+
+4
+00:00:00,720 --> 00:00:00,980
+He laid out the <font color="#00ff00">evidence</font> in front of them.
+
+5
+00:00:00,980 --> 00:00:01,220
+He laid out the evidence <font color="#00ff00">in</font> front of them.
+
+6
+00:00:01,220 --> 00:00:01,380
+He laid out the evidence in <font color="#00ff00">front</font> of them.
+
+7
+00:00:01,380 --> 00:00:01,520
+He laid out the evidence in front <font color="#00ff00">of</font> them.
+
+8
+00:00:01,520 --> 00:00:01,660
+He laid out the evidence in front of <font color="#00ff00">them.</font>
+
+9
+00:00:02,500 --> 00:00:02,740
+<font color="#00ff00">Therefore</font> items echoing their silent accusation.
+
+10
+00:00:02,740 --> 00:00:03,220
+Therefore <font color="#00ff00">items</font> echoing their silent accusation.
+
+11
+00:00:03,220 --> 00:00:03,620
+Therefore items <font color="#00ff00">echoing</font> their silent accusation.
+
+12
+00:00:03,620 --> 00:00:03,740
+Therefore items echoing <font color="#00ff00">their</font> silent accusation.
+
+13
+00:00:03,740 --> 00:00:04,080
+Therefore items echoing their <font color="#00ff00">silent</font> accusation.
+
+14
+00:00:04,080 --> 00:00:04,720
+Therefore items echoing their silent <font color="#00ff00">accusation.</font>

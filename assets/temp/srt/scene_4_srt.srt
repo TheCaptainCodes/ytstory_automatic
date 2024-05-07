@@ -1,0 +1,99 @@
+0
+00:00:00,060 --> 00:00:00,180
+<font color="#00ff00">On</font> closer examination,
+
+1
+00:00:00,180 --> 00:00:00,540
+On <font color="#00ff00">closer</font> examination,
+
+2
+00:00:00,540 --> 00:00:01,100
+On closer <font color="#00ff00">examination,</font>
+
+3
+00:00:01,700 --> 00:00:01,820
+<font color="#00ff00">read</font> found four peculiar items,
+
+4
+00:00:01,820 --> 00:00:02,080
+read <font color="#00ff00">found</font> four peculiar items,
+
+5
+00:00:02,080 --> 00:00:02,380
+read found <font color="#00ff00">four</font> peculiar items,
+
+6
+00:00:02,380 --> 00:00:02,760
+read found four <font color="#00ff00">peculiar</font> items,
+
+7
+00:00:02,760 --> 00:00:03,160
+read found four peculiar <font color="#00ff00">items,</font>
+
+8
+00:00:03,580 --> 00:00:03,680
+<font color="#00ff00">a</font> feather,
+
+9
+00:00:03,680 --> 00:00:03,960
+a <font color="#00ff00">feather,</font>
+
+10
+00:00:04,820 --> 00:00:04,920
+<font color="#00ff00">a</font> glove,
+
+11
+00:00:04,920 --> 00:00:05,240
+a <font color="#00ff00">glove,</font>
+
+12
+00:00:06,120 --> 00:00:06,220
+<font color="#00ff00">a</font> wine stained napkin,
+
+13
+00:00:06,220 --> 00:00:06,480
+a <font color="#00ff00">wine</font> stained napkin,
+
+14
+00:00:06,480 --> 00:00:06,780
+a wine <font color="#00ff00">stained</font> napkin,
+
+15
+00:00:06,780 --> 00:00:07,280
+a wine stained <font color="#00ff00">napkin,</font>
+
+16
+00:00:07,640 --> 00:00:07,740
+<font color="#00ff00">and</font> a ticket stub from the opera's balcony.
+
+17
+00:00:07,740 --> 00:00:07,820
+and <font color="#00ff00">a</font> ticket stub from the opera's balcony.
+
+18
+00:00:07,820 --> 00:00:08,040
+and a <font color="#00ff00">ticket</font> stub from the opera's balcony.
+
+19
+00:00:08,040 --> 00:00:08,360
+and a ticket <font color="#00ff00">stub</font> from the opera's balcony.
+
+20
+00:00:08,360 --> 00:00:08,560
+and a ticket stub <font color="#00ff00">from</font> the opera's balcony.
+
+21
+00:00:08,560 --> 00:00:08,680
+and a ticket stub from <font color="#00ff00">the</font> opera's balcony.
+
+22
+00:00:08,680 --> 00:00:09,020
+and a ticket stub from the <font color="#00ff00">opera's</font> balcony.
+
+23
+00:00:09,020 --> 00:00:09,060
+and a ticket stub from the opera's balcony.
+
+24
+00:00:09,060 --> 00:00:09,280
+and a ticket stub from the opera's <font color="#00ff00">balcony.</font>

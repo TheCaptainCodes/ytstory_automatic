@@ -1,0 +1,67 @@
+0
+00:00:00,240 --> 00:00:00,520
+<font color="#00ff00">Detective</font> Reed stood at the entrance of the world renowned opera house,
+
+1
+00:00:00,520 --> 00:00:00,740
+Detective <font color="#00ff00">Reed</font> stood at the entrance of the world renowned opera house,
+
+2
+00:00:00,740 --> 00:00:01,020
+Detective Reed <font color="#00ff00">stood</font> at the entrance of the world renowned opera house,
+
+3
+00:00:01,020 --> 00:00:01,160
+Detective Reed stood <font color="#00ff00">at</font> the entrance of the world renowned opera house,
+
+4
+00:00:01,160 --> 00:00:01,260
+Detective Reed stood at <font color="#00ff00">the</font> entrance of the world renowned opera house,
+
+5
+00:00:01,260 --> 00:00:01,540
+Detective Reed stood at the <font color="#00ff00">entrance</font> of the world renowned opera house,
+
+6
+00:00:01,540 --> 00:00:01,720
+Detective Reed stood at the entrance <font color="#00ff00">of</font> the world renowned opera house,
+
+7
+00:00:01,720 --> 00:00:01,820
+Detective Reed stood at the entrance of <font color="#00ff00">the</font> world renowned opera house,
+
+8
+00:00:01,820 --> 00:00:02,080
+Detective Reed stood at the entrance of the <font color="#00ff00">world</font> renowned opera house,
+
+9
+00:00:02,080 --> 00:00:02,340
+Detective Reed stood at the entrance of the world <font color="#00ff00">renowned</font> opera house,
+
+10
+00:00:02,340 --> 00:00:02,760
+Detective Reed stood at the entrance of the world renowned <font color="#00ff00">opera</font> house,
+
+11
+00:00:02,760 --> 00:00:03,220
+Detective Reed stood at the entrance of the world renowned opera <font color="#00ff00">house,</font>
+
+12
+00:00:03,960 --> 00:00:04,240
+<font color="#00ff00">gazing</font> at the grand edifice.
+
+13
+00:00:04,240 --> 00:00:04,380
+gazing <font color="#00ff00">at</font> the grand edifice.
+
+14
+00:00:04,380 --> 00:00:04,500
+gazing at <font color="#00ff00">the</font> grand edifice.
+
+15
+00:00:04,500 --> 00:00:04,720
+gazing at the <font color="#00ff00">grand</font> edifice.
+
+16
+00:00:04,720 --> 00:00:05,020
+gazing at the grand <font color="#00ff00">edifice.</font>

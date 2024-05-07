@@ -1,0 +1,71 @@
+0
+00:00:00,060 --> 00:00:00,540
+<font color="#00ff00">Inside,</font>
+
+1
+00:00:00,920 --> 00:00:01,160
+<font color="#00ff00">chaos</font> ensued.
+
+2
+00:00:01,160 --> 00:00:01,680
+chaos <font color="#00ff00">ensued.</font>
+
+3
+00:00:02,300 --> 00:00:02,400
+<font color="#00ff00">The</font> Nightingales Pearl.
+
+4
+00:00:02,400 --> 00:00:02,880
+The <font color="#00ff00">Nightingales</font> Pearl.
+
+5
+00:00:02,880 --> 00:00:03,240
+The Nightingales <font color="#00ff00">Pearl.</font>
+
+6
+00:00:04,200 --> 00:00:04,380
+<font color="#00ff00">Star</font> of the Opera had vanished.
+
+7
+00:00:04,380 --> 00:00:04,560
+Star <font color="#00ff00">of</font> the Opera had vanished.
+
+8
+00:00:04,560 --> 00:00:04,680
+Star of <font color="#00ff00">the</font> Opera had vanished.
+
+9
+00:00:04,680 --> 00:00:04,960
+Star of the <font color="#00ff00">Opera</font> had vanished.
+
+10
+00:00:04,960 --> 00:00:05,960
+Star of the Opera <font color="#00ff00">had</font> vanished.
+
+11
+00:00:05,960 --> 00:00:06,300
+Star of the Opera had <font color="#00ff00">vanished.</font>
+
+12
+00:00:07,000 --> 00:00:07,100
+<font color="#00ff00">The</font> safe was open and empty.
+
+13
+00:00:07,100 --> 00:00:07,380
+The <font color="#00ff00">safe</font> was open and empty.
+
+14
+00:00:07,380 --> 00:00:07,540
+The safe <font color="#00ff00">was</font> open and empty.
+
+15
+00:00:07,540 --> 00:00:07,760
+The safe was <font color="#00ff00">open</font> and empty.
+
+16
+00:00:07,760 --> 00:00:07,880
+The safe was open <font color="#00ff00">and</font> empty.
+
+17
+00:00:07,880 --> 00:00:08,040
+The safe was open and <font color="#00ff00">empty.</font>

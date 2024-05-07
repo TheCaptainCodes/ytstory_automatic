@@ -1,0 +1,71 @@
+0
+00:00:00,100 --> 00:00:00,220
+<font color="#00ff00">These</font> belong to four key suspects,
+
+1
+00:00:00,220 --> 00:00:00,480
+These <font color="#00ff00">belong</font> to four key suspects,
+
+2
+00:00:00,480 --> 00:00:00,700
+These belong <font color="#00ff00">to</font> four key suspects,
+
+3
+00:00:00,700 --> 00:00:00,900
+These belong to <font color="#00ff00">four</font> key suspects,
+
+4
+00:00:00,900 --> 00:00:01,120
+These belong to four <font color="#00ff00">key</font> suspects,
+
+5
+00:00:01,120 --> 00:00:01,400
+These belong to four key <font color="#00ff00">suspects,</font>
+
+6
+00:00:02,000 --> 00:00:02,100
+<font color="#00ff00">the</font> Primadana,
+
+7
+00:00:02,100 --> 00:00:02,680
+the <font color="#00ff00">Primadana,</font>
+
+8
+00:00:03,580 --> 00:00:03,680
+<font color="#00ff00">the</font> wealthy patron,
+
+9
+00:00:03,680 --> 00:00:03,920
+the <font color="#00ff00">wealthy</font> patron,
+
+10
+00:00:03,920 --> 00:00:04,380
+the wealthy <font color="#00ff00">patron,</font>
+
+11
+00:00:05,260 --> 00:00:05,360
+<font color="#00ff00">the</font> opera conductor,
+
+12
+00:00:05,360 --> 00:00:05,600
+the <font color="#00ff00">opera</font> conductor,
+
+13
+00:00:05,600 --> 00:00:06,020
+the opera <font color="#00ff00">conductor,</font>
+
+14
+00:00:06,940 --> 00:00:07,040
+<font color="#00ff00">and</font> the balcony spectator.
+
+15
+00:00:07,040 --> 00:00:07,120
+and <font color="#00ff00">the</font> balcony spectator.
+
+16
+00:00:07,120 --> 00:00:07,420
+and the <font color="#00ff00">balcony</font> spectator.
+
+17
+00:00:07,420 --> 00:00:08,000
+and the balcony <font color="#00ff00">spectator.</font>

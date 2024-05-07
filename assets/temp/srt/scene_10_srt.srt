@@ -1,0 +1,87 @@
+0
+00:00:00,100 --> 00:00:00,320
+<font color="#00ff00">Here's</font> the evidence.
+
+1
+00:00:00,320 --> 00:00:00,400
+Here's <font color="#00ff00">the</font> evidence.
+
+2
+00:00:00,400 --> 00:00:00,740
+Here's the <font color="#00ff00">evidence.</font>
+
+3
+00:00:01,640 --> 00:00:01,740
+<font color="#00ff00">The</font> suspects.
+
+4
+00:00:01,740 --> 00:00:02,140
+The <font color="#00ff00">suspects.</font>
+
+5
+00:00:03,900 --> 00:00:04,000
+<font color="#00ff00">Who</font> do you think stole the night in Gales Pearl?
+
+6
+00:00:04,000 --> 00:00:04,080
+Who <font color="#00ff00">do</font> you think stole the night in Gales Pearl?
+
+7
+00:00:04,080 --> 00:00:04,160
+Who do <font color="#00ff00">you</font> think stole the night in Gales Pearl?
+
+8
+00:00:04,160 --> 00:00:04,300
+Who do you <font color="#00ff00">think</font> stole the night in Gales Pearl?
+
+9
+00:00:04,300 --> 00:00:04,560
+Who do you think <font color="#00ff00">stole</font> the night in Gales Pearl?
+
+10
+00:00:04,560 --> 00:00:04,760
+Who do you think stole <font color="#00ff00">the</font> night in Gales Pearl?
+
+11
+00:00:04,760 --> 00:00:04,900
+Who do you think stole the <font color="#00ff00">night</font> in Gales Pearl?
+
+12
+00:00:04,900 --> 00:00:05,040
+Who do you think stole the night <font color="#00ff00">in</font> Gales Pearl?
+
+13
+00:00:05,040 --> 00:00:05,260
+Who do you think stole the night in <font color="#00ff00">Gales</font> Pearl?
+
+14
+00:00:05,260 --> 00:00:05,520
+Who do you think stole the night in Gales <font color="#00ff00">Pearl?</font>
+
+15
+00:00:06,280 --> 00:00:06,600
+<font color="#00ff00">Asked</font> Reed,
+
+16
+00:00:06,600 --> 00:00:06,740
+Asked <font color="#00ff00">Reed,</font>
+
+17
+00:00:07,200 --> 00:00:07,380
+<font color="#00ff00">leaving</font> the audience to ponder.
+
+18
+00:00:07,380 --> 00:00:07,580
+leaving <font color="#00ff00">the</font> audience to ponder.
+
+19
+00:00:07,580 --> 00:00:07,920
+leaving the <font color="#00ff00">audience</font> to ponder.
+
+20
+00:00:07,920 --> 00:00:08,140
+leaving the audience <font color="#00ff00">to</font> ponder.
+
+21
+00:00:08,140 --> 00:00:08,440
+leaving the audience to <font color="#00ff00">ponder.</font>

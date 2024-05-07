@@ -1,0 +1,55 @@
+0
+00:00:00,120 --> 00:00:00,260
+<font color="#00ff00">Read</font> Gather Them All In The Main Hall.
+
+1
+00:00:00,260 --> 00:00:00,540
+Read <font color="#00ff00">Gather</font> Them All In The Main Hall.
+
+2
+00:00:00,540 --> 00:00:00,780
+Read Gather <font color="#00ff00">Them</font> All In The Main Hall.
+
+3
+00:00:00,780 --> 00:00:00,940
+Read Gather Them <font color="#00ff00">All</font> In The Main Hall.
+
+4
+00:00:00,940 --> 00:00:01,080
+Read Gather Them All <font color="#00ff00">In</font> The Main Hall.
+
+5
+00:00:01,080 --> 00:00:01,140
+Read Gather Them All In <font color="#00ff00">The</font> Main Hall.
+
+6
+00:00:01,140 --> 00:00:01,240
+Read Gather Them All In The <font color="#00ff00">Main</font> Hall.
+
+7
+00:00:01,240 --> 00:00:01,320
+Read Gather Them All In The Main Hall.
+
+8
+00:00:01,320 --> 00:00:01,580
+Read Gather Them All In The Main <font color="#00ff00">Hall.</font>
+
+9
+00:00:02,460 --> 00:00:02,720
+<font color="#00ff00">Tension</font> Thick In The Air.
+
+10
+00:00:02,720 --> 00:00:03,000
+Tension <font color="#00ff00">Thick</font> In The Air.
+
+11
+00:00:03,000 --> 00:00:03,120
+Tension Thick <font color="#00ff00">In</font> The Air.
+
+12
+00:00:03,120 --> 00:00:03,240
+Tension Thick In <font color="#00ff00">The</font> Air.
+
+13
+00:00:03,240 --> 00:00:03,420
+Tension Thick In The <font color="#00ff00">Air.</font>
